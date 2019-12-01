@@ -73,3 +73,4 @@ else:
     xmin=xbar
 print('Minimum value: {}'.format(xmin))
 print('Number of iterations: {}'.format(n))
+input("\npress [RETURN] to continue")
