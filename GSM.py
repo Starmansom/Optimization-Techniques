@@ -14,7 +14,7 @@ x1=((b-a)*w1+a)
 x2=((b-a)*w2+b)
 print('x2=',x2)
 print('l is this' ,l)
-i=int(input('is it iterative then give the valu of i'))
+i=int(input('if it is iterative then give the value of i'))
 if i==0:
       while l>e:
         w1=A+(0.618*l)
