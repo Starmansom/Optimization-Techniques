@@ -39,3 +39,4 @@ else:
         a=a-(fone(a)/ftwo(a))
         n=n+1
 print('Number of iterations: {}'.format(n))
+input("\npress [RETURN] to continue")
